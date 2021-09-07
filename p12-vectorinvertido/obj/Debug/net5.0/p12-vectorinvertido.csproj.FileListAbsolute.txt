@@ -1,0 +1,5 @@
+C:\Users\JBkrn\desapp21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.csproj.AssemblyReference.cache
+C:\Users\JBkrn\desapp21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JBkrn\desapp21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.AssemblyInfoInputs.cache
+C:\Users\JBkrn\desapp21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.AssemblyInfo.cs
+C:\Users\JBkrn\desapp21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.csproj.CoreCompileInputs.cache

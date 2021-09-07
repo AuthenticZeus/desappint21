@@ -1,0 +1,16 @@
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.csproj.AssemblyReference.cache
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.AssemblyInfoInputs.cache
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.AssemblyInfo.cs
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.csproj.CoreCompileInputs.cache
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.exe
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.deps.json
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.runtimeconfig.json
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.runtimeconfig.dev.json
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.dll
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\bin\Debug\net5.0\ref\p09-vectoraleatorio.dll
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.pdb
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.dll
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\obj\Debug\net5.0\ref\p09-vectoraleatorio.dll
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.pdb
+C:\Users\JBkrn\desapp21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.genruntimeconfig.cache

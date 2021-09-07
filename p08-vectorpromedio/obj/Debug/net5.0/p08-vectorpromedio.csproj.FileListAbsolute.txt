@@ -1,0 +1,5 @@
+C:\Users\JBkrn\desapp21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.csproj.AssemblyReference.cache
+C:\Users\JBkrn\desapp21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JBkrn\desapp21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.AssemblyInfoInputs.cache
+C:\Users\JBkrn\desapp21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.AssemblyInfo.cs
+C:\Users\JBkrn\desapp21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.csproj.CoreCompileInputs.cache
