@@ -5,11 +5,11 @@ namespace p15_controlbancario
         public CuentaBancaria(float saldo) {
             this.saldo = saldo;
         }
-        public float saldo {get; private set;}
+        public float saldo {get; protected set;}
         public void deposita(float cantidad) {
             saldo += cantidad;
         }
-        public bool retira(float cantidad) {
+        public virtual bool retira(float cantidad) {
             if(cantidad<=saldo) {
                 saldo-=cantidad;
                 return true;

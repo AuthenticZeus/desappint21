@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p15-controlbancario/p15-controlbancario.csproj": {}
+    "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p16-controlbancariov2/p15-controlbancario.csproj": {}
   },
   "projects": {
-    "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p15-controlbancario/p15-controlbancario.csproj": {
+    "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p16-controlbancariov2/p15-controlbancario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p15-controlbancario/p15-controlbancario.csproj",
+        "projectUniqueName": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p16-controlbancariov2/p15-controlbancario.csproj",
         "projectName": "p15-controlbancario",
-        "projectPath": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p15-controlbancario/p15-controlbancario.csproj",
+        "projectPath": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p16-controlbancariov2/p15-controlbancario.csproj",
         "packagesPath": "/Users/castr/.nuget/packages/",
-        "outputPath": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p15-controlbancario/obj/",
+        "outputPath": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p16-controlbancariov2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/castr/.nuget/NuGet/NuGet.Config"
