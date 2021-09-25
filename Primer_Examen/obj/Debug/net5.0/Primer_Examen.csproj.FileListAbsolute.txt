@@ -1,0 +1,16 @@
+C:\Users\JBkrn\desapp21\Primer_Examen\obj\Debug\net5.0\Primer_Examen.csproj.AssemblyReference.cache
+C:\Users\JBkrn\desapp21\Primer_Examen\obj\Debug\net5.0\Primer_Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JBkrn\desapp21\Primer_Examen\obj\Debug\net5.0\Primer_Examen.AssemblyInfoInputs.cache
+C:\Users\JBkrn\desapp21\Primer_Examen\obj\Debug\net5.0\Primer_Examen.AssemblyInfo.cs
+C:\Users\JBkrn\desapp21\Primer_Examen\obj\Debug\net5.0\Primer_Examen.csproj.CoreCompileInputs.cache
+C:\Users\JBkrn\desapp21\Primer_Examen\bin\Debug\net5.0\Primer_Examen.exe
+C:\Users\JBkrn\desapp21\Primer_Examen\bin\Debug\net5.0\Primer_Examen.deps.json
+C:\Users\JBkrn\desapp21\Primer_Examen\bin\Debug\net5.0\Primer_Examen.runtimeconfig.json
+C:\Users\JBkrn\desapp21\Primer_Examen\bin\Debug\net5.0\Primer_Examen.runtimeconfig.dev.json
+C:\Users\JBkrn\desapp21\Primer_Examen\bin\Debug\net5.0\Primer_Examen.dll
+C:\Users\JBkrn\desapp21\Primer_Examen\bin\Debug\net5.0\ref\Primer_Examen.dll
+C:\Users\JBkrn\desapp21\Primer_Examen\bin\Debug\net5.0\Primer_Examen.pdb
+C:\Users\JBkrn\desapp21\Primer_Examen\obj\Debug\net5.0\Primer_Examen.dll
+C:\Users\JBkrn\desapp21\Primer_Examen\obj\Debug\net5.0\ref\Primer_Examen.dll
+C:\Users\JBkrn\desapp21\Primer_Examen\obj\Debug\net5.0\Primer_Examen.pdb
+C:\Users\JBkrn\desapp21\Primer_Examen\obj\Debug\net5.0\Primer_Examen.genruntimeconfig.cache
