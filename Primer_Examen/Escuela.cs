@@ -46,7 +46,7 @@ public class Escuela{
         }
         return m;
     }
-/*         public int MayCal(){
+    /*     public int MayCal(){
         int m=Alumnos[0].Calificaciones;
         foreach(Alumno n in Alumnos)
             if(n.Calificaciones>m)
@@ -54,14 +54,14 @@ public class Escuela{
         return m;
     }
     public int MenCal(){
-        int m=Alumnos[0].(int)Calificaciones;
+        int m=Alumnos[0].Calificaciones;
         foreach(Alumno n in Alumnos)
             if(n.Calificaciones<m)
             m=n.Calificaciones;
         return m;
     }
-*/
-    
+
+    */
    
 
 }
