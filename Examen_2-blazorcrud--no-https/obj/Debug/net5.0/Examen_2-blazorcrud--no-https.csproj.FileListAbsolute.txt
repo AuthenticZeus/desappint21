@@ -1,0 +1,16 @@
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\Examen_2-blazorcrud--no-https.csproj.AssemblyReference.cache
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\Examen_2-blazorcrud--no-https.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\Examen_2-blazorcrud--no-https.AssemblyInfoInputs.cache
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\Examen_2-blazorcrud--no-https.AssemblyInfo.cs
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\Examen_2-blazorcrud--no-https.csproj.CoreCompileInputs.cache
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\Examen_2-blazorcrud--no-https.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\Examen_2-blazorcrud--no-https.RazorComponent.input.cache
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\JBkrn\desapp21\Examen_2-blazorcrud--no-https\obj\Debug\net5.0\Examen_2-blazorcrud--no-https.RazorComponent.output.cache
